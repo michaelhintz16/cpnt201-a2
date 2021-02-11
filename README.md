@@ -1,6 +1,6 @@
 Michael Hintz 
-[read me](https://github.com/michaelhintz16/cpnt201-a2/blob/main/README.md)
-[Github repo] 
+* [read me](https://github.com/michaelhintz16/cpnt201-a2/blob/main/README.md)
+* [Github repo](https://michaelhintz16.github.io/cpnt201-a2/) 
 # Atributes
 * images 
 * [image 1](https://unsplash.com/photos/Z0KjmjxUsKs): unsplash 
