@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <title>Raster Image Optimization</title>
+</head>
+<body>
+  <h1>CPNT 201 - Assignment 2 - Raster Image Optimization</h1>
+  <div class="container">
+    <h2>field</h2>
+    <img loading="lazy" src="assets/images/md/field-md.webp" alt="field" srcset="
+        assets/images/small/field-sm.webp 500w,
+        assets/images/md/field-md.webp 1024w,
+        assets/images/large/field-lrg.webp 1920w
+      " width="1024" height="575">
+    <h2>flag</h2>
+    <img loading="lazy" src="assets/images/md/flag-md.webp" alt="flag" srcset="
+        assets/images/small/flag-sm.webp 500w,
+        assets/images/md/flag-md.webp 1024w,
+        assets/images/large/flag-lrg.webp 1920w
+      " width="1024" height="575">
+    <h2>shot</h2>
+    <img loading="lazy" src="assets/images/md/shot-md.webp" alt="shot" srcset="
+        assets/images/small/shot-sm.webp 500w,
+        assets/images/md/shot-md.webp 1024w,
+        assets/images/large/shot-lrg.webp 1920w
+      " width="1024" height="575">
+  </div>
+
+</body>
+</html>
